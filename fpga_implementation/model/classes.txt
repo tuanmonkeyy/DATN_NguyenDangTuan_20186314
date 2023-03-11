@@ -1,0 +1,5 @@
+bird
+fw_uav
+rw_uav
+fighter
+helicopter
